@@ -1,6 +1,6 @@
 """
 1. Write code to iterate through the list and find the largest number. Remember to use the indexing we talked about - numbers[i]
-2. Print out the maximum number.
+2. RETURN the maximum number. Make sure to write the "return"
 """
 
 
